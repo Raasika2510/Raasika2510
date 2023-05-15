@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19mADMWGJMgNs-7SHw3fBEclqssnj73Fw/view?usp=sharing](https://drive.google.com/file/d/19mADMWGJMgNs-7SHw3fBEclqssnj73Fw/view?usp=sharing)
 
-- ⚡ Fun fact **I could a little garrulous! 😁😅**
+- ⚡ Fun fact **I could be a little garrulous! 😁😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
