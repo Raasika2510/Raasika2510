@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **raasikamageshwaran2510@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19mADMWGJMgNs-7SHw3fBEclqssnj73Fw/view?usp=sharing](https://drive.google.com/file/d/19mADMWGJMgNs-7SHw3fBEclqssnj73Fw/view?usp=sharing)
+- 📄 Check Out my Portfolio [https://linktr.ee/Raasika.M](https://linktr.ee/Raasika.M)
 
 - ⚡ Fun fact **I could be a little garrulous! 😁😅**
 
