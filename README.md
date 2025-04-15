@@ -1,12 +1,10 @@
 [![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://rishavchanda.io)
 <h1 align="center">Howdy👋! This is Raasika Mageshwaran</h1>
-<h3 align="center">A Machine Learning and Data Science Enthusiast</h3>
+<h3 align="center">MERN Stack Dev with a hint of ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raasika2510&label=Profile%20views&color=0e75b6&style=flat" alt="raasika2510" /> </p>
 
-- 🔭 I’m currently working on **Basics of ML and DS**
-
-- 🌱 I’m currently learning **Machine Learning, R programming, Data Analysis and Visualization tools**
+- 🔭 I’m currently building **MERN Apps**
 
 - 💬 Ask me about **Python Programming, Pandas, Numpy, Matplotlib,TensorFlow, MySQL, Java**
 
